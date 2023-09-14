@@ -1,0 +1,1 @@
+This is an IONIC REACT SideMenu template you can use to start a project.
